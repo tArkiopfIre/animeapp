@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735410669455",
+    "project_id": "animeapp-60ef9",
+    "storage_bucket": "animeapp-60ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735410669455:android:ac301f22fe5739de492dfa",
+        "android_client_info": {
+          "package_name": "com.example.animeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735410669455-0socp80ohvdfm75fj19156nu0n8tpqor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjniIwmesoc8mEr468pHs0RzHHGf6sw7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735410669455-0socp80ohvdfm75fj19156nu0n8tpqor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
